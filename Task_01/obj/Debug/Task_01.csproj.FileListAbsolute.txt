@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\bin\Debug\Task_01.exe.config
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\bin\Debug\Task_01.exe
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\bin\Debug\Task_01.pdb
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.exe
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.pdb

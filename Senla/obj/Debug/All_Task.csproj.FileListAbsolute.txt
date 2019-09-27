@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\bin\Debug\Senla.exe.config
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\bin\Debug\Senla.exe
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\bin\Debug\Senla.pdb
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\obj\Debug\All_Task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\obj\Debug\Senla.exe
+C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Senla\obj\Debug\Senla.pdb
