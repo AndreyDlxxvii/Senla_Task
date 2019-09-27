@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_
 C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.exe
 C:\Users\Administrator\Desktop\Финалочка\Финальная\Senla\Task_01\obj\Debug\Task_01.pdb
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\bin\Debug\Task_01.exe.config
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\bin\Debug\Task_01.exe
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\bin\Debug\Task_01.pdb
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\obj\Debug\Task_01.csprojAssemblyReference.cache
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\obj\Debug\Task_01.exe
+C:\Users\Dlxxvii\Desktop\Senla\Task_01\obj\Debug\Task_01.pdb

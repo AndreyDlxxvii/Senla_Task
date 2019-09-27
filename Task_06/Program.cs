@@ -33,7 +33,7 @@ namespace Task_06
                 return backPackFinal[i].price;
             }
         }
-        public class Inventori
+        public class Inventory
         {
             public string name { get; set; }
             public int weight { get; set; }
@@ -49,16 +49,16 @@ namespace Task_06
 
             int backpack = 26;
             backPackFinal = new BackPackFinal[backpack + 1];
-            List<Inventori> invent = new List<Inventori>
+            List<Inventory> invent = new List<Inventory>
                 {
-               new Inventori {name = "ручка", weight = 7, cost = 11},
-               new Inventori {name = "тетрадка", weight = 10, cost = 15},
-               new Inventori {name = "книжка", weight = 12, cost = 24},
-               new Inventori {name = "пенал", weight = 16, cost = 26}
+               new Inventory {name = "ручка", weight = 7, cost = 11},
+               new Inventory {name = "тетрадка", weight = 10, cost = 15},
+               new Inventory {name = "книжка", weight = 12, cost = 24},
+               new Inventory {name = "пенал", weight = 16, cost = 26}
                 };
             invent = invent.OrderBy(x => x.cost).ToList();
 
-            List<Inventori> temp = new List<Inventori>();
+            List<Inventory> temp = new List<Inventory>();
             backPackFinal[0] = new BackPackFinal("ничто", 0, 0);
             for (int i = 1; i < backpack + 1; i++)// перебираем по емкости рюкзака
             {
